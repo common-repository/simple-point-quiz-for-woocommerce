@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-28 19:40+0800\n"
+"PO-Revision-Date: 2020-02-28 19:40+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;Additional keywords\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:99
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:101
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:102
+msgid "Woocommerce Quiz Questionnaire"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:100
+#, fuzzy
+#| msgid "Description"
+msgid "Question"
+msgstr "Description"
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:103
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:104
+msgid "Add New Question"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:105
+msgid "New Question"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:106
+msgid "Edit Question"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:107
+msgid "View Question"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:108
+msgid "All Questions"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:109
+msgid "Search Questions"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:110
+msgid "Parent Questions:"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:111
+msgid "No questions found."
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:112
+msgid "No questions found in Trash."
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:117
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:143
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:153
+msgid "Quizzes"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:144
+msgid "Quiz"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:145
+msgid "Search Quizzes"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:146
+msgid "All Quizzes"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:147
+msgid "Parent Quiz"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:148
+msgid "Parent Quiz:"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:149
+msgid "Edit Quiz"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:150
+msgid "Update Quiz"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:151
+msgid "Add New Quiz"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:152
+msgid "New Quiz Name"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:173
+msgid "Quiz Shortcode"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:197
+msgid "Sort Index"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:428
+msgid "Build Linked Quizzes"
+msgstr ""
+
+#: admin/class-simple-point-quiz-for-woocommerce-admin.php:428
+msgid "Link Quizzes"
+msgstr ""
+
+#: admin/partials/simple-point-quiz-for-woocommerce-admin-quiz-add.php:19
+msgid "Set Suggested Products Results are in Edit Quiz Page"
+msgstr ""
+
+#: admin/partials/simple-point-quiz-for-woocommerce-admin-quiz-edit.php:19
+msgid "Set Suggested Products Result"
+msgstr ""
+
+#: admin/partials/simple-point-quiz-for-woocommerce-admin-quiz-linking.php:22
+msgid "Notice"
+msgstr ""
+
+#: admin/partials/simple-point-quiz-for-woocommerce-admin-quiz-linking.php:22
+msgid "Please create atleast 2 Quizzes to allow linking."
+msgstr ""
+
+#: simple-point-quiz-for-woocommerce.php:43 simple-point-quiz-for-woocommerce.php:45
+msgid ""
+"<p><strong>Simple Woocommerce Point Quiz:</strong> Please make sure at least "
+"<strong>Woocommerce <u>3.0</u></strong> is installed & activated<p>"
+msgstr ""
+
+#: simple-point-quiz-for-woocommerce.php:43
+msgid "Go Back"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:165
+#: public/class-simple-point-quiz-for-woocommerce-public.php:173
+msgid "Next"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:166
+#: public/class-simple-point-quiz-for-woocommerce-public.php:186
+msgid "Prev"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:173
+msgid "Submit"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:202
+msgid "Quiz has no question"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:272
+msgid "Click Here"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:272
+msgid "to check our"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:272
+msgid "Suggested Products"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:293
+msgid "Hello! We suggest these products for you"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:316
+msgid "We're sorry,"
+msgstr ""
+
+#: public/class-simple-point-quiz-for-woocommerce-public.php:316
+msgid ""
+"We didn't find products suited for your needs. Please try browsing our other "
+"Products/Services."
+msgstr ""
+
+#~ msgid "Settings"
+#~ msgstr "Settings"
+
+#~ msgid " Settings"
+#~ msgstr " Settings"
+
+#~ msgid "Dashboard"
+#~ msgstr "Dashboard"
+
+#~ msgid "Please setup your correct ComCart EMA API Details"
+#~ msgstr "Please setup your correct ComCart EMA API Details"
+
+#~ msgid "Please setup your correct ComCart CRM Login Details"
+#~ msgstr "Please setup your correct ComCart CRM Login Details"
+
+#~ msgid ""
+#~ "Invalid Request please refresh this page. If problem persist contact "
+#~ "administrator."
+#~ msgstr ""
+#~ "Invalid Request please refresh this page. If problem persist contact "
+#~ "administrator."
+
+#~ msgid "Viewing Top 10 Data"
+#~ msgstr "Viewing Top 10 Data"
+
+#~ msgid "View More"
+#~ msgstr "View More"
+
+#~ msgid "Unique ID"
+#~ msgstr "Unique ID"
+
+#~ msgid "Visible Name"
+#~ msgstr "Visible Name"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "First Name"
+#~ msgstr "First Name"
+
+#~ msgid "Last Name"
+#~ msgstr "Last Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Age"
+#~ msgstr "Age"
+
+#~ msgid "Date Added"
+#~ msgstr "Date Added"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Subscribers"
+#~ msgstr "Subscribers"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "Listings"
+#~ msgstr "Listings"
+
+#~ msgid "Campaign ID"
+#~ msgstr "Campaign ID"
+
+#~ msgid "Campaigns"
+#~ msgstr "Campaigns"
+
+#~ msgid "Template ID"
+#~ msgstr "Template ID"
+
+#~ msgid "Screenshot"
+#~ msgstr "Screenshot"
+
+#~ msgid "Templates"
+#~ msgstr "Templates"
+
+#~ msgid "Account Name"
+#~ msgstr "Account Name"
+
+#~ msgid "Office Phone"
+#~ msgstr "Office Phone"
+
+#~ msgid "User"
+#~ msgstr "User"
+
+#~ msgid "Date Created"
+#~ msgstr "Date Created"
+
+#~ msgid "Sales Stage"
+#~ msgstr "Sales Stage"
+
+#~ msgid "Amount"
+#~ msgstr "Amount"
+
+#~ msgid "Close"
+#~ msgstr "Close"
+
+#~ msgid "Direction"
+#~ msgstr "Direction"
+
+#~ msgid "Subject"
+#~ msgstr "Subject"
+
+#~ msgid "Related To"
+#~ msgstr "Related To"
+
+#~ msgid "Start Date"
+#~ msgstr "Start Date"
+
+#~ msgid "Assigned to"
+#~ msgstr "Assigned to"
+
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#~ msgid "Assigned User"
+#~ msgstr "Assigned User"
+
+#~ msgid "ComCart EMA Login URL"
+#~ msgstr "ComCart EMA Login URL"
+
+#~ msgid "Public Key"
+#~ msgstr "Public Key"
+
+#~ msgid "Private Key"
+#~ msgstr "Private Key"
+
+#~ msgid "ComCart CRM Login URL"
+#~ msgstr "ComCart CRM Login URL"
+
+#~ msgid "ComCart CRM Username"
+#~ msgstr "ComCart CRM Username"
+
+#~ msgid "ComCart CRM Password"
+#~ msgstr "ComCart CRM Password"
+
+#~ msgid "ComCart EMA API Credentials"
+#~ msgstr "ComCart EMA API Credentials"
+
+#~ msgid "ComCart CRM API Credentials"
+#~ msgstr "ComCart CRM API Credentials"
+
+#~ msgid "ComCart EMA"
+#~ msgstr "ComCart EMA"
+
+#~ msgid "ComCart CRM"
+#~ msgstr "ComCart CRM"
+
+#~ msgid "Leads"
+#~ msgstr "Leads"
+
+#~ msgid "Top 10 Opportunities"
+#~ msgstr "Top 10 Opportunities"
+
+#~ msgid "Calls"
+#~ msgstr "Calls"
+
+#~ msgid "Meetings"
+#~ msgstr "Meetings"
+
+#~ msgid "MailWizz Login URL"
+#~ msgstr "MailWizz Login URL"
+
+#~ msgid "MailWizz API Credentials"
+#~ msgstr "MailWizz API Credentials"
+
+#~ msgid "API URL"
+#~ msgstr "API URL"

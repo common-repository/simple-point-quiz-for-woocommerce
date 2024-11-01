@@ -1,0 +1,175 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.input_fields_wrap .row {
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.input_fields_wrap .other-answers .row:last-of-type {
+    border:none;
+}
+
+.input_fields_wrap .row a {
+    width: 10%;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px 10px;
+    height: auto;
+    font-size: 10px;
+}
+
+.input_fields_wrap .row a.remove_field_button {
+    color: #ff3f3f;
+    border-color: #ff3f3f;
+}
+
+.input_fields_wrap .row input {
+    vertical-align: middle;
+    padding: 5px 15px;
+    width: 35%;
+    height: 35px;
+}
+
+.input_fields_wrap .row input[name="answer_fields_point[]"] {
+    width: 15%;
+}
+
+#addtag .input_fields_wrap .row a, td.input_fields_wrap .row a, td .add_field_button {
+    width: 45px;
+    padding: 0 !important;
+    font-weight: bold !important;
+    font-size: 2em !important;
+    height: 40px !important;
+    line-height: 35px !important;
+    text-align: center;
+}
+
+.input_fields_wrap .row input[type="url"]{
+    width: 100%;
+}
+
+#addtag .select2-container {
+    width: 100% !important;
+    line-height: 100%;
+}
+
+td.input_fields_wrap .row {
+    display: block;
+}
+
+/*td.input_fields_wrap .row input{
+    width: 115px;
+}*/
+
+td.input_fields_wrap .row .select2-container {
+    width: 100% !important;
+    line-height: 100%;
+}
+
+.mce-notification, .tox-tinymce-aux, .tox-statusbar__branding {
+    display: none !important;
+}
+
+.result-display {
+    margin: 15px 0 15px 25px;
+    display: block;
+}
+
+#addtag .result-display{
+    margin-left: 0;
+}
+
+.result-display > h4 {
+    display: block;
+    cursor: pointer;
+    background: #0071a1;
+    margin: 0;
+    padding: 15px 0 15px 25px;
+    color: #fff;
+    border-radius: 3px;
+    width: auto;
+}
+
+.result-display > h4 i {
+    display: inline-block;
+    margin: 0 15px 0 0;
+}
+
+.result-con {
+    display: none;
+    border: 1px solid #0071a1;
+    padding: 20px;
+    width: 92%;
+}
+
+#awoopq-quiz-linking {
+    width: 97.5%;
+    background: #fff;
+    padding: 20px;
+}
+
+#awoopq-build-link {
+    width: 65%;
+    display: inline-block;
+    vertical-align: top;
+    height: 100%;
+}
+
+#awoopq-choose-quizzes {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 2%;
+}
+
+#awoopq-choose-quizzes label {
+    display: block;
+    padding: 10px;
+}
+
+#awoopq-choose-quizzes label:nth-of-type(odd) {
+    background: #f9f9f9;
+}
+
+#awoopq-choose-quizzes h3 {
+    margin: 0 0 20px;
+}
+
+#awoopq-build-link li {
+    background: #efefef;
+    padding: 15px 0;
+    cursor: move;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#awoopq-build-link li input {
+    opacity: 0;
+    overflow: hidden;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    z-index: -1;
+}
+
+#awoopq-build-link button {
+    border: none;
+    background: #46b450;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 3px;
+    font-weight: bold;
+    float: right;
+}
+
+#awoopq-build-link .icon {
+    display: inline-block;
+    position: relative;
+    margin: 0 15px;
+}
